@@ -1,0 +1,1 @@
+insert into veiculos (nome, modelo, marca, data_fabricacao, consumo_medio_rodovia, consumo_medio_cidade) values ('Volkswagen Gol', 'Gol', 'Volkswagen', '2010', '13.9', '18.9');
