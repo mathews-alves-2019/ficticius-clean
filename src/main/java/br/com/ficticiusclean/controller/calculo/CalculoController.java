@@ -18,8 +18,10 @@ import br.com.ficticiusclean.dto.VeiculoDTO;
 import br.com.ficticiusclean.model.Response;
 import br.com.ficticiusclean.service.impl.CalculoServiceImpl;
 import br.com.ficticiusclean.service.impl.VeiculosServiceImpl;
+import io.swagger.annotations.Api;
 
 @RestController
+@Api(value = "Question")
 @RequestMapping(value = "/calculo")
 public class CalculoController {
 	
