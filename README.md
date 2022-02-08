@@ -23,3 +23,10 @@
 After build and run the application you can access the url http://localhost:8080/ficticius-clean-api/swagger-ui.html to view the API endpoints documentation.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- Recommendation -->
+### Recommendation
+
+You can use the Insomnia app to do the requests to API or any other app you like.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
